@@ -1,0 +1,579 @@
+[
+  {
+    "title": "Text Input",
+    "fields": {
+      "id": {
+        "label": "ID / Name",
+        "type": "input",
+        "value": "textinput"
+      },
+      "label": {
+        "label": "标题",
+        "type": "input",
+        "value": "文本输入"
+      },
+      "placeholder": {
+        "label": "占位符",
+        "type": "input",
+        "value": "placeholder"
+      },
+      "helptext": {
+        "label": "帮助文本",
+        "type": "input",
+        "value": "help"
+      },
+      "required": {
+        "label": "是否必填",
+        "type": "checkbox",
+        "value": false
+      },
+      "inputsize": {
+        "label": "输入框大小",
+        "type": "select",
+        "value": [
+          {
+            "value": "input-mini",
+            "label": "Mini",
+            "selected": false
+          },
+          {
+            "value": "input-small",
+            "label": "Small",
+            "selected": false
+          },
+          {
+            "value": "input-medium",
+            "label": "Medium",
+            "selected": false
+          },
+          {
+            "value": "input-large",
+            "label": "Large",
+            "selected": false
+          },
+          {
+            "value": "input-xlarge",
+            "label": "Xlarge",
+            "selected": true
+          },
+          {
+            "value": "input-xxlarge",
+            "label": "Xxlarge",
+            "selected": false
+          }
+        ]
+      }
+    }
+  },
+  {
+    "title": "Password Input",
+    "fields": {
+      "id": {
+        "label": "ID / Name",
+        "type": "input",
+        "value": "passwordinput"
+      },
+      "label": {
+        "label": "标题",
+        "type": "input",
+        "value": "密码"
+      },
+      "placeholder": {
+        "label": "占位符",
+        "type": "input",
+        "value": "placeholder"
+      },
+      "helptext": {
+        "label": "帮助文本",
+        "type": "input",
+        "value": "help"
+      },
+      "required": {
+        "label": "是否必填",
+        "type": "checkbox",
+        "value": false
+      },
+      "inputsize": {
+        "label": "输入框大小",
+        "type": "select",
+        "value": [
+          {
+            "value": "input-mini",
+            "label": "Mini",
+            "selected": false
+          },
+          {
+            "value": "input-small",
+            "label": "Small",
+            "selected": false
+          },
+          {
+            "value": "input-medium",
+            "label": "Medium",
+            "selected": false
+          },
+          {
+            "value": "input-large",
+            "label": "Large",
+            "selected": false
+          },
+          {
+            "value": "input-xlarge",
+            "label": "Xlarge",
+            "selected": true
+          },
+          {
+            "value": "input-xxlarge",
+            "label": "Xxlarge",
+            "selected": false
+          }
+        ]
+      }
+    }
+  },
+  {
+    "title": "Search Input",
+    "fields": {
+      "id": {
+        "label": "ID / Name",
+        "type": "input",
+        "value": "searchinput"
+      },
+      "label": {
+        "label": "标题",
+        "type": "input",
+        "value": "搜索框"
+      },
+      "placeholder": {
+        "label": "占位符",
+        "type": "input",
+        "value": "placeholder"
+      },
+      "helptext": {
+        "label": "帮助文本",
+        "type": "input",
+        "value": "help"
+      },
+      "required": {
+        "label": "是否必填",
+        "type": "checkbox",
+        "value": false
+      },
+      "inputsize": {
+        "label": "输入框大小",
+        "type": "select",
+        "value": [
+          {
+            "value": "input-mini",
+            "label": "Mini",
+            "selected": false
+          },
+          {
+            "value": "input-small",
+            "label": "Small",
+            "selected": false
+          },
+          {
+            "value": "input-medium",
+            "label": "Medium",
+            "selected": false
+          },
+          {
+            "value": "input-large",
+            "label": "Large",
+            "selected": false
+          },
+          {
+            "value": "input-xlarge",
+            "label": "Xlarge",
+            "selected": true
+          },
+          {
+            "value": "input-xxlarge",
+            "label": "Xxlarge",
+            "selected": false
+          }
+        ]
+      }
+    }
+  },
+  {
+    "title": "Prepended Text",
+    "fields": {
+      "id": {
+        "label": "ID / Name",
+        "type": "input",
+        "value": "prependedtext"
+      },
+      "label": {
+        "label": "标题",
+        "type": "input",
+        "value": "前缀文本框"
+      },
+      "prepend": {
+        "label": "前缀",
+        "type": "input",
+        "value": "prepend"
+      },
+      "placeholder": {
+        "label": "占位符",
+        "type": "input",
+        "value": "placeholder"
+      },
+      "helptext": {
+        "label": "帮助文本",
+        "type": "input",
+        "value": "help"
+      },
+      "required": {
+        "label": "是否必填",
+        "type": "checkbox",
+        "value": false
+      },
+      "inputsize": {
+        "label": "输入框大小",
+        "type": "select",
+        "value": [
+          {
+            "value": "input-mini",
+            "label": "Mini",
+            "selected": false
+          },
+          {
+            "value": "input-small",
+            "label": "Small",
+            "selected": false
+          },
+          {
+            "value": "input-medium",
+            "label": "Medium",
+            "selected": false
+          },
+          {
+            "value": "input-large",
+            "label": "Large",
+            "selected": false
+          },
+          {
+            "value": "input-xlarge",
+            "label": "Xlarge",
+            "selected": true
+          },
+          {
+            "value": "input-xxlarge",
+            "label": "Xxlarge",
+            "selected": false
+          }
+        ]
+      }
+    }
+  },
+  {
+    "title": "Appended Text",
+    "fields": {
+      "id": {
+        "label": "ID / Name",
+        "type": "input",
+        "value": "appendedtext"
+      },
+      "label": {
+        "label": "标题",
+        "type": "input",
+        "value": "后缀文本框"
+      },
+      "append": {
+        "label": "后缀",
+        "type": "input",
+        "value": "append"
+      },
+      "placeholder": {
+        "label": "占位符",
+        "type": "input",
+        "value": "placeholder"
+      },
+      "helptext": {
+        "label": "帮助文本",
+        "type": "input",
+        "value": "help"
+      },
+      "required": {
+        "label": "是否必填",
+        "type": "checkbox",
+        "value": false
+      },
+      "inputsize": {
+        "label": "输入框大小",
+        "type": "select",
+        "value": [
+          {
+            "value": "input-mini",
+            "label": "Mini",
+            "selected": false
+          },
+          {
+            "value": "input-small",
+            "label": "Small",
+            "selected": false
+          },
+          {
+            "value": "input-medium",
+            "label": "Medium",
+            "selected": false
+          },
+          {
+            "value": "input-large",
+            "label": "Large",
+            "selected": false
+          },
+          {
+            "value": "input-xlarge",
+            "label": "Xlarge",
+            "selected": true
+          },
+          {
+            "value": "input-xxlarge",
+            "label": "Xxlarge",
+            "selected": false
+          }
+        ]
+      }
+    }
+  },
+  {
+    "title": "Prepended Checkbox",
+    "fields": {
+      "id": {
+        "label": "ID / Name",
+        "type": "input",
+        "value": "prependedcheckbox"
+      },
+      "label": {
+        "label": "标题",
+        "type": "input",
+        "value": "前缀选择文本框"
+      },
+      "placeholder": {
+        "label": "占位符",
+        "type": "input",
+        "value": "placeholder"
+      },
+      "helptext": {
+        "label": "帮助文本",
+        "type": "input",
+        "value": "help"
+      },
+      "checked": {
+        "label": "Checked",
+        "type": "checkbox",
+        "value": false
+      },
+      "required": {
+        "label": "是否必填",
+        "type": "checkbox",
+        "value": false
+      },
+      "inputsize": {
+        "label": "输入框大小",
+        "type": "select",
+        "value": [
+          {
+            "value": "input-mini",
+            "label": "Mini",
+            "selected": false
+          },
+          {
+            "value": "input-small",
+            "label": "Small",
+            "selected": false
+          },
+          {
+            "value": "input-medium",
+            "label": "Medium",
+            "selected": false
+          },
+          {
+            "value": "input-large",
+            "label": "Large",
+            "selected": false
+          },
+          {
+            "value": "input-xlarge",
+            "label": "Xlarge",
+            "selected": true
+          },
+          {
+            "value": "input-xxlarge",
+            "label": "Xxlarge",
+            "selected": false
+          }
+        ]
+      }
+    }
+  },
+  {
+    "title": "Appended Checkbox",
+    "fields": {
+      "id": {
+        "label": "ID / Name",
+        "type": "input",
+        "value": "appendedcheckbox"
+      },
+      "label": {
+        "label": "标题",
+        "type": "input",
+        "value": "后缀选择文本框"
+      },
+      "placeholder": {
+        "label": "占位符",
+        "type": "input",
+        "value": "placeholder"
+      },
+      "helptext": {
+        "label": "帮助文本",
+        "type": "input",
+        "value": "help"
+      },
+      "checked": {
+        "label": "Checked",
+        "type": "checkbox",
+        "value": false
+      },
+      "required": {
+        "label": "是否必填",
+        "type": "checkbox",
+        "value": false
+      },
+      "inputsize": {
+        "label": "输入框大小",
+        "type": "select",
+        "value": [
+          {
+            "value": "input-mini",
+            "label": "Mini",
+            "selected": false
+          },
+          {
+            "value": "input-small",
+            "label": "Small",
+            "selected": false
+          },
+          {
+            "value": "input-medium",
+            "label": "Medium",
+            "selected": false
+          },
+          {
+            "value": "input-large",
+            "label": "Large",
+            "selected": false
+          },
+          {
+            "value": "input-xlarge",
+            "label": "Xlarge",
+            "selected": true
+          },
+          {
+            "value": "input-xxlarge",
+            "label": "Xxlarge",
+            "selected": false
+          }
+        ]
+      }
+    }
+  },
+  {
+    "title": "Button Drop Down",
+    "fields": {
+      "id": {
+        "label": "ID / Name",
+        "type": "input",
+        "value": "buttondropdown"
+      },
+      "label": {
+        "label": "标题",
+        "type": "input",
+        "value": "后缀下拉文本框"
+      },
+      "placeholder": {
+        "label": "占位符",
+        "type": "input",
+        "value": "placeholder"
+      },
+      "buttontext": {
+        "label": "按钮文本",
+        "type": "input",
+        "value": "Action"
+      },
+      "buttonoptions": {
+        "label": "下拉选项",
+        "type": "textarea-split",
+        "value": [
+          "Option one",
+          "Option two",
+          "Option three"
+        ]
+      },
+      "required": {
+        "label": "是否必填",
+        "type": "checkbox",
+        "value": false
+      },
+      "inputsize": {
+        "label": "输入框大小",
+        "type": "select",
+        "value": [
+          {
+            "value": "input-mini",
+            "label": "Mini",
+            "selected": false
+          },
+          {
+            "value": "input-small",
+            "label": "Small",
+            "selected": false
+          },
+          {
+            "value": "input-medium",
+            "label": "Medium",
+            "selected": false
+          },
+          {
+            "value": "input-large",
+            "label": "Large",
+            "selected": false
+          },
+          {
+            "value": "input-xlarge",
+            "label": "Xlarge",
+            "selected": true
+          },
+          {
+            "value": "input-xxlarge",
+            "label": "Xxlarge",
+            "selected": false
+          }
+        ]
+      }
+    }
+  },
+  {
+    "title": "Text Area",
+    "fields": {
+      "id": {
+        "label": "ID / Name",
+        "type": "input",
+        "value": "textarea"
+      },
+      "label": {
+        "label": "标题",
+        "type": "input",
+        "value": "多行文本"
+      },
+      "textarea": {
+        "label": "初始内容",
+        "type": "textarea",
+        "value": "default text"
+      }
+    }
+  }
+]
